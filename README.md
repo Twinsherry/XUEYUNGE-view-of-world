@@ -6,7 +6,7 @@ Do Not Reprint
 
 This repository includes some Twinsherry's personal view of world.
 
-It may add XUEYUNGE's friendly ally，XINGTA later, but Twinsherry cannot promise that it is correct。
+It may add XUEYUNGE's friendly ally，XINGTA later, but Twinsherry cannot promise that it is correct.
 
 ## 雪云阁世界观摘要
 
